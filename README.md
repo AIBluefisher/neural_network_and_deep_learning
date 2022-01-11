@@ -9,12 +9,14 @@ The classical mnist handwritten digit recognition problem. The numpy implementat
 - [x] Feedforward Neural Network/MLP
   - [x] Numpy Implementation
     - ***Loss Functions***
-      - [x] L2 norm
-      - [x] Cross-Entropy
+      - [x] L2 norm, [x] Cross-Entropy
     - ***Activation Functions***
-      - [x] sigmoid/logistic activation
-      - [ ] softmax
-  - [ ] Pytorch Implementation
+      - [x] sigmoid/logistic activation, [ ] softmax
+  - [x] Pytorch Implementation
+    - ***Loss Functions***
+      - [x] L2 norm, [x] Cross-Entropy
+    - ***Activation Functions***
+      - [x] ReLU
 - [ ] Convolution Neural Network
 - [ ] LeNet
 - [ ] GoogleNet
